@@ -20,3 +20,10 @@ body {
     height: 200px;
 }
 
+.container {
+    color: brown;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+    font: sans-serif;
+}
